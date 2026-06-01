@@ -1,5 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-06-02T00:00:00",
-  "revoked": []
+  "updated_at": "2026-06-02T09:20:11",
+  "revoked": [
+    "6a79dcb3-fbf8-4b67-ae1e-4669f14cb9cb"
+  ]
 }
