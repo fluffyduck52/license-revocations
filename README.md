@@ -4,7 +4,7 @@ Public list of revoked ProduLogic Swift Transfer Receiver license IDs.
 
 This repo's `revocations.json` is served by GitHub Pages at:
 
-> **https://produlogic-nz.github.io/license-revocations/revocations.json**
+> **https://fluffyduck52.github.io/license-revocations/revocations.json**
 
 Receivers fetch this URL on startup. If their `license_id` appears in
 the `revoked` array, the receiver refuses to start.
